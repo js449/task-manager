@@ -46,7 +46,9 @@ Open index.html in a modern browser (Chrome, Firefox, Edge)
 
 Use the app
 
-## Note: To use ES6 modules (type="module" in script), you might need to serve the files using a local HTTP server rather than opening the file directly. For example:
+## Note
+
+To use ES6 modules (type="module" in script), you might need to serve the files using a local HTTP server rather than opening the file directly. For example:
 
 npx http-server
 
