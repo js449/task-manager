@@ -1,7 +1,7 @@
 {
   "type": "module",
   "devDependencies": {
-    "eslint": "^8.57.1",
+    "eslint": "^9.33.0",
     "eslint-plugin-unicorn": "^60.0.0"
   }
 }
